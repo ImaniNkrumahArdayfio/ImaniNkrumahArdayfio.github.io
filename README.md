@@ -3,6 +3,7 @@
 **Reflection for Critical Making Assignment**
 
 (/assests.img/reflection.png)
+https://github.com/ImaniNkrumahArdayfio/ImaniNkrumahArdayfio.github.io/blob/a54eaf97d990678f789beba551b491243a5da0d0/reflection.png
 
 For the Critical Making Project, I was assigned to the Interactivity group and tasked with creating something engaging and interactive to represent or share the data from The Umpire. The goal was to create something that appealed visually and kinesthetically to our intended audience (the class). We also wanted to evoke a connection between the audience and the lived experiences of the inmates.
 
